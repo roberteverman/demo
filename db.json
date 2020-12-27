@@ -1,6 +1,6 @@
 {
-  "datetime": "12-31-2020 | 23:59:59Z",
-  "data": [
+  "air": { "datetime": "12-31-2020 | 23:59:59Z",
+  "data":[
     {
       "airfield": "Poseidon",
       "status": "OP",
@@ -252,5 +252,5 @@
         {"type": "MiG-23", "total": 5, "operational": 5}
       ]
     }
-  ]
+  ]}
 }
